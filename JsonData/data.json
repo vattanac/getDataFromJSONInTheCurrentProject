@@ -1,0 +1,15 @@
+{
+
+    "users":[
+      { "name":"John",
+        "age":25
+      },
+      {
+        "name":"Mark",
+        "age":29
+      }
+    ],
+    "dataTitle":"JSON TU",
+    "swiftVersion":2.1
+
+}
